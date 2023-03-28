@@ -1,5 +1,5 @@
 main()
 {
-  printf("hello, world\n");
+  printf("Continuous Security Testing (CST)\n");
 }
 
